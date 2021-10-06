@@ -1,6 +1,6 @@
 # Conclusiones articulos
 
-## Articulo Data Modeling Takes Practice, Practice, Practice.
+## Artículo Data Modeling Takes Practice, Practice, Practice.
 El diseño de bases de datos es una tarea compleja y la cual tiene algunas partes que se pueden automatizar pero hace falta mucha práctica para poder conseguir hacer unos diseños de bases de datos completos y en condiciones para evitar que los cambios posteriores en la estructura de la base de datos sean desastrosos para toda la organización, por ello cada profesional debe depurar y mejorar su método al máximo para reducir los errores al pasar el producto o script a producción. En conclusión, la atención al detalle es imprescindible para poder desarrollar un buen diseño del sistema de bases de datos.
 
 ## Artículo Improving Communication Between Data Modelers and Enterprise Stakeholders
